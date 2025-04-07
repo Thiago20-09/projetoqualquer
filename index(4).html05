@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Títulos do Real Madrid</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #003b5c;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        header h1 {
+            margi<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Títulos do Real Madrid</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #fff;
+            text-align: center;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #0046ad;
+        }
+        .content {
+            padding: 20px;
+        }
+        .titles {
+            list-style-type: none;
+            padding: 0;
+        }
+        .titles li {
+            background-color: #fff;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #0046ad;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Os Títulos do Real Madrid</h1>
+</header>
+
+<div class="content">
+    <h2>Principais Conquistas do Real Madrid</h2>
+    <p>O Real Madrid é um dos clubes mais bem-sucedidos da história do futebol, com uma grande quantidade de títulos nacionais e internacionais. Aqui estão alguns dos mais notáveis:</p>
+
+    <ul class="titles">
+        <li><strong>La Liga:</strong> 35 títulos</li>
+        <li><strong>Liga dos Campeões da UEFA:</strong> 14 títulos (recorde)</li>
+        <li><strong>Copa del Rey:</strong> 19 títulos</li>
+        <li><strong>Supercopa da UEFA:</strong> 5 títulos</li>
+        <li><strong>Copa Intercontinental:</strong> 3 títulos</li>
+        <li><strong>Mundial de Clubes da FIFA:</strong> 5 títulos</li>
+        <li><strong>Taça das Taças:</strong> 2 títulos</li>
+    </ul>
+</div>
+
+<footer>
+    <p>&copy; 2025 Real Madrid F.C. - Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
+
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .titles {
+            list-style-type: none;
+            padding: 0;
+        }
+        .titles li {
+            background-color: #fff;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .title-header {
+            font-size: 2em;
+            color: #003b5c;
+        }
+        footer {
+            background-color: #003b5c;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Títulos do Real Madrid</h1>
+</header>
+
+<div class="content">
+    <h2 class="title-header">Principais Conquistas do Real Madrid</h2>
+    <p>O Real Madrid é considerado um dos clubes mais vitoriosos e tradicionais do futebol mundial. Ao longo de sua história, conquistou uma impressionante quantidade de títulos tanto em competições nacionais quanto internacionais. A seguir, você pode conferir alguns dos maiores feitos do clube.</p>
+
+    <ul class="titles">
+        <li><strong>La Liga (Campeonato Espanhol):</strong> 35 títulos</li>
+        <li><strong>Liga dos Campeões da UEFA:</strong> 14 títulos (Recorde de títulos)</li>
+        <li><strong>Copa del Rey (Copa da Espanha):</strong> 19 títulos</li>
+        <li><strong>Supercopa da UEFA:</strong> 5 títulos</li>
+        <li><strong>Copa Intercontinental:</strong> 3 títulos</li>
+        <li><strong>Mundial de Clubes da FIFA:</strong> 5 títulos</li>
+        <li><strong>Taça das Taças:</strong> 2 títulos</li>
+        <li><strong>Copa da Liga Espanhola:</strong> 1 título</li>
+        <li><strong>Supercopa da Espanha:</strong> 12 títulos</li>
+    </ul>
+</div>
+
+<footer>
+    <p>&copy; 2025 Real Madrid F.C. - Todos os direitos reservados.</p>
+</footer>
+
+</body>
+
